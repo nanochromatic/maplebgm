@@ -9,7 +9,7 @@ url:              http://maplebgm.com
 # Owner/author information
 owner:
   name:           Slip
-  avatar:         avatar.jpg
+  avatar:         avatar.png
   bio:            "I manage this collection of MapleStory music."
   email:          
   # Social networking links used in footer. Update and remove as you like.
@@ -29,7 +29,7 @@ owner:
 background: wild_flowers.png
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-53945508-1
+google_analytics: UA-53945508-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
