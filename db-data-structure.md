@@ -603,5 +603,4 @@ For the buggy BGMs, they are all located within <a href="http://youtu.be/u_0Rzc_
 <b>StudioEIM Portfolio</b>  
 <a href="http://youtu.be/x4FQNTMBjno">Kerning Square (Alternate Version)</a>  
 <a href="http://youtu.be/13nSE_8rXP4">Summer Boating (Alternate Version)</a>  
-<a href="http://youtu.be/e28KuaWaHYo">Poison Forest (Alternate Version)</a  
-
+<a href="http://youtu.be/e28KuaWaHYo">Poison Forest (Alternate Version)</a>  
