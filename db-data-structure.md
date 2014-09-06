@@ -12,6 +12,12 @@ comments: true
 
 The last database is for those who have familiarized themselves with the structure of Sound.wz. Tracks originating from a certain version will usually be found in their respective region-coded folders, while all other tracks are from KoreaMS. This database is aimed at extractors and other data specialists.
 
+<span style="color:red">Red: </span> This track was never used or is no longer used in the game.
+
+<span style="color:green">Green: </span> This track is a duplicate of another track or has been renamed.
+
+<b>Last updated:</b> September 5, 2014
+
 <b>Bgm00</b>  
 <a href="http://youtu.be/mM_27SaY7tE">DragonDream</a> - Evan Tutorial  
 <a href="http://youtu.be/s2_MAplvHeQ">FloralLife</a> - Henesys  
@@ -163,7 +169,7 @@ The last database is for those who have familiarized themselves with the structu
 
 <b>Bgm18</b>  
 <a href="http://youtu.be/D567gGNSf8I">BlackWing</a> - Black Wings theme  
-<a href="http://youtu.be/Dt4hq7RKhsA"><span style="color:red">BlueEreb</span></a> - renamed to Injustice; no longer present in data  
+<a href="http://youtu.be/Dt4hq7RKhsA"><span style="color:green">BlueEreb</span></a> - <em>renamed to 'Injustice'</em>; no longer present in data  
 <a href="http://youtu.be/uu55XbbIjRU">DrillHall</a> - Cygnus Drill Hall  
 <a href="http://youtu.be/Dt4hq7RKhsA">Injustice</a> -   
 <a href="http://youtu.be/3r9s43TG9yA">QueensGarden</a> - Ereve  
@@ -294,8 +300,8 @@ banbantime (currently a dead file in data)
 <a href="http://youtu.be/KromtwCShMQ">itsmonstersLife2</a>  
 <a href="http://youtu.be/RrUuiOV7DmY">journey</a>  
 <a href="http://youtu.be/Wmu3EmK7AWc">scholarsLibrary</a>  
-<a href="http://youtu.be/Mf0YGaqueqQ"><span style="color:red">showmetheMoney</span></a> - <em>renamed as 'specialtyStore'</em>  
-<a href="http://youtu.be/hnWokhTVSO4"><span style="color:red">showmetheMoreMoney</span></a> - <em>renamed as 'specialtyStoreRemix'</em>  
+<a href="http://youtu.be/Mf0YGaqueqQ"><span style="color:green">showmetheMoney</span></a> - <em>renamed as 'specialtyStore'</em>  
+<a href="http://youtu.be/hnWokhTVSO4"><span style="color:green">showmetheMoreMoney</span></a> - <em>renamed as 'specialtyStoreRemix'</em>  
 <a href="http://youtu.be/Mf0YGaqueqQ">specialtyStore</a>  
 <a href="http://youtu.be/hnWokhTVSO4">specialtyStoreRemix</a>  
 
@@ -324,6 +330,8 @@ banbantime (currently a dead file in data)
 
 <b>Bgm34</b>  
 <a href="http://youtu.be/r3bEoktbxtc">AgainstTheDark</a>  
+<a href="http://youtu.be/rrPNjni4GuI">DimensionLibrary</a>  
+<a href="http://youtu.be/XfHmfDcmbkQ"><span style="color:red">DimensionLibrary</span></a> - <em>original version</em>  
 <a href="http://youtu.be/BjIJTO2SFAk">GlacierAdventure</a>  
 <a href="http://youtu.be/40uWLqIu23s">GoFight!ShowYourEnergy!</a>  
 <a href="http://youtu.be/9D7nLxP4w9A">MapleLeaf</a>  
@@ -343,9 +351,51 @@ banbantime (currently a dead file in data)
 <a href="http://youtu.be/XLAlhsGXgxY">TragicForest</a>  
 <a href="http://youtu.be/v6xiH8VbBKY">TragicRestart</a>  
 
+<b>Bgm36</b>  
+<a href="http://youtu.be/fajX5WR07mw">decision</a>  
+<a href="http://youtu.be/lorm88ckSuM">foxvillage</a>  
+<a href="http://youtu.be/wzBIoro1jIs"><span style="color:green">HappyTime</span></a> - <em>renamed to 'HappyTimeLong'</em>  
+<a href="http://youtu.be/wzBIoro1jIs">HappyTimeLong</a>  
+<a href="http://youtu.be/RknHVs7vDlw">HappyTimeShort</a>  
+<a href="http://youtu.be/ui4YM2l2i4o">RoyalGuard</a>  
+<a href="http://youtu.be/4oNXYkRrf-g">sadfoxvillage</a>  
+
+<b>Bgm37</b>  
+<a href="http://youtu.be/ZnS7JgfB8DI">AmusingStoryInTheFairyTale</a>  
+<a href="http://youtu.be/STDN57rytW8">HazardFromCave</a>  
+<a href="http://youtu.be/_5qyICio6MQ">JungleInTheSea</a>  
+<a href="http://youtu.be/AZU1lB4WrlU">StrangeSortOfStory</a>  
+<a href="http://youtu.be/XPnJrBwv0zM">TheBottomOfTheSea</a>  
+<a href="http://youtu.be/qr9eW2y2EJM">VentureIntoTheUnkown</a>  
+
+<b>Bgm38</b>  
+<a href="http://youtu.be/6sn8HkQCe5U">battlefield</a>  
+<a href="http://youtu.be/OGyMx7IL8es">FlowerVioleta</a>  
+<a href="http://youtu.be/uL-_-gH5lSs">HollowAttack</a>  
+<a href="http://youtu.be/_XoSyxYJ0LI">LifeIsComedy</a>  
+<a href="http://youtu.be/eSfkxogXQRE">MushroomCastle</a>  
+<a href="http://youtu.be/ZwgnBLjovlc">SchoolLife</a>  
+<a href="http://youtu.be/WRL1IwOzW7A"><span style="color:red">SchoolLife</span></a> - <em>original version</em>  
+<a href="http://youtu.be/kW0ZN2ilLqs">UrbanStreet</a>  
+<a href="http://youtu.be/8BuKesi-Gc4">VikingShip</a>  
+<a href="http://youtu.be/6gw2psbpUhI">VikingSkipper</a>  
+<a href="http://youtu.be/QX9RozniVPU">WarMushCastle</a>  
+
+<b>Bgm39</b>  
+<a href="http://youtu.be/K7eMwQl7vV8">InvitavionStarplanet</a>  
+<a href="http://youtu.be/CRRtBbo6Z2E">masterOfKeyBoard</a>  
+<a href="http://youtu.be/j5cxr23pgZU">StarPlanetGameField</a>  
+<a href="http://youtu.be/Heb9xARAX3U">StarPlanetMainEvent</a>  
+<a href="http://youtu.be/ksPcC1AxIZA">StarPlanetWaitField</a>  
+<a href="http://youtu.be/volCxW3z3CY">StarPlanetWorldEvent</a>  
+<a href="http://youtu.be/mRXufsvyuUA">YUTYUTYUT</a>  
+
 <b>BgmEvent</b>  
+<a href="http://youtu.be/kCG2WU5PkF0">captureTheFlag</a>  
+<a href="http://youtu.be/-E-O8wMa5d0">coordiKing</a>  
 <a href="http://youtu.be/eQ41JswJdng">dolphin_night</a> - Tourist event  
 <a href="http://youtu.be/FbxAXcvyHns">dolphin_noon</a> - Tourist event  
+<a href="http://youtu.be/Or2OSeGbPV0">Dominion</a>  
 <a href="http://youtu.be/l77eZ-QcJm4">halloweenMainHall</a>  
 <a href="http://youtu.be/mal0QfNLWOA">halloweenParty</a>  
 <a href="http://youtu.be/xP_5fvzevbE">halloweenracing</a>  
@@ -358,11 +408,20 @@ banbantime (currently a dead file in data)
 
 <b>BgmEvent2</b>  
 <a href="http://youtu.be/K4kGM9aKBCM">kiteBGM</a>  
+<a href="http://youtu.be/VRhE2xNjmP4">miniGameStation</a>  
 <a href="http://youtu.be/siOIcI8Fa3A">rhythmBgm1</a>  
 <a href="http://youtu.be/iFUeN8brMbo">rhythmBgm2</a>  
 <a href="http://youtu.be/oC59ar2ONwI"><span style="color:red">risingStar</span></a> - a shorter version of Title_8th; no longer used  
 <a href="http://youtu.be/oyLNri1VuOM"><span style="color:red">risingStar2</span></a> - an alternate version of risingStar, with lyrics  
+<a href="http://youtu.be/6AY9MkUSc9s">santaBeats</a>  
+<a href="http://youtu.be/t-Ra1k_Dk2k">santaRocks</a>  
 <a href="http://youtu.be/3yvTD3d9OLQ">tenthBoard</a>  
+
+<b>BgmMIKU</b>  
+<a href="http://1drv.ms/1tdAqrF">DAYBREAK</a>  
+<a href="http://1drv.ms/1tpUTr4">Monokuro</a>  
+<a href="http://1drv.ms/1tdAoA7">next</a>  
+<a href="http://1drv.ms/1tdApEc">Sprechchor</a>  
 
 <b>BgmGL</b>  
 <a href="http://youtu.be/hCdooZxzISo">amoria</a> - Amoria  
@@ -393,11 +452,15 @@ banbantime (currently a dead file in data)
 <a href="http://youtu.be/8bvx6bZ8WnA">CastleInside</a> - Ninja Castle: Indoors  
 <a href="http://youtu.be/6yJ3_i6emNw">CastleOutSide</a> - Ninja Castle: Outdoors  
 <a href="http://youtu.be/c310tdhrwtk">CastleTrap</a> - Ninja Castle: Trap Room  
+<a href="http://youtu.be/6eY155X67Ww">CityHall</a>  
+<a href="http://youtu.be/unR2SUdW3Oc">CityWarfare</a>  
 <a href="http://youtu.be/uBUfQcIhim0"><span style="color:green">Elfwoods</span></a> - a copy of Elfwood  
 <a href="http://youtu.be/SdcsTuVLJk0">Feeling</a> - Mushroom Shrine  
 <a href="http://youtu.be/ePUZA7yRJVM"><span style="color:red">FirstStepMaster</span></a> - Mushroom Town Training Camp  
+<a href="http://youtu.be/K4Lg7Ny5kX0">Gabuki</a>  
 <a href="http://youtu.be/1nj0TXt_23c"><span style="color:red">Hana</span></a> - similar to Yume, but is not used  
 <a href="http://youtu.be/He-cxSXHS8A"><span style="color:red">MorningShot</span></a> - no apparent use (JapanMS)  
+<a href="http://youtu.be/VBGL3ESb008">TCBoss</a>  
 <a href="http://youtu.be/gfgBDs8z6WE"><span style="color:green">WhenTheMorningComes</span></a> - JapanMS copy of WhenTheMorningComes (same name)  
 <a href="http://youtu.be/58QPkwCSd4Y">Yume</a> - Showa Town  
 
@@ -412,6 +475,8 @@ banbantime (currently a dead file in data)
 <a href="http://youtu.be/MVCmEQSeZak">Tokyosky</a> - 2102 Tokyo Sky  
 
 <b>BgmJp3</b>  
+<a href="http://youtu.be/4c48SktoA6U">Hieijan</a>  
+<a href="http://youtu.be/vDwB1oxSJyE">Hieijan_nohime</a>  
 <a href="http://youtu.be/WK-aE_3PF8g">InsideHonnouji</a>  
 <a href="http://youtu.be/3fVO9GWfILs">Kecon</a> - Japanese Wedding  
 <a href="http://youtu.be/ydtzNwT0Tys">Momijigaoka</a>  
@@ -452,6 +517,27 @@ banbantime (currently a dead file in data)
 <a href="http://youtu.be/HOm_PhJ41jM">ThanksGivingDay</a>  
 <a href="http://youtu.be/Z1_N3UkmaMM">YoTaipei</a> - Ximending  
 
+<a href="http://youtu.be/87RytVeR85w">bugworld(bug)</a>  
+AcientForest(bug)
+badguys(bug)
+bluesky(bug)
+dragonload(bug)
+dragonnest(bug)
+FLOAR(bug) - Floral Life
+forgetfulness(bug)
+junglebook(bug)
+knightsStronghold(bug)
+mapleleaf(bug)
+midnightshadow(bug) - Moonlight Shadow
+minar'sdream(bug)
+raindropflower(bug)
+rienvillage(bug)
+ruincastle(bug)
+sleepwood(bug)
+waltzforwork(bug)
+
+For the buggy BGMs, they are all located within <a href="http://youtu.be/u_0Rzc_Blgk">this video</a>.  
+
 <b>BgmTH</b>  
 <a href="http://youtu.be/VoHtZ3sKsOY">goldTempleDungeonTH</a> - Golden Temple: Goblin Cave (Dungeon)  
 <a href="http://youtu.be/NQPeBpjEYrs">goldTempleFieldTH</a> - Golden Temple: Monkey Forest (Field)  
@@ -471,16 +557,21 @@ banbantime (currently a dead file in data)
 <a href="http://youtu.be/gNafzBfyoTo">Highland</a> - Fantasy Theme Park  
 <a href="http://youtu.be/aJNseQp1Tb4">KualaLumpur</a> - Trend Zone Metropolis; Kampung Village  
 
-<b>BgmEventEU</b>  
-<a href="http://youtu.be/Dtvumci8eA0"><span style="color:green">Anniv1</span></a> - EuropeMS anniversary; a copy of CakeMap  
-
 <b>BgmBR</b>  
 <a href="http://youtu.be/Toxr3wrvQm8"><span style="color:red">FeelGood</span></a> - no apparent use (BrazilMS)  
 <a href="http://youtu.be/fFPEeCpJ1I4"><span style="color:red">HeatUP</span></a> - no apparent use (BrazilMS)  
 <a href="http://youtu.be/3fm6C-FyoRQ"><span style="color:red">TheAftermath</span></a> - no apparent use (BrazilMS)  
 
 <b>BgmBT</b>  
+<a href="http://youtu.be/1Z4-AVRNNEI">BeastTamerColloseum</a>  
+<a href="http://youtu.be/Pyfqoim3jPA">BeastTamerKoboltCave</a>  
+<a href="http://youtu.be/Ol-Cy_VUDMM">BeastTamerWoodTown</a>  
+<a href="http://youtu.be/JvaxNdKZS3I">commercIng</a>  
+<a href="http://youtu.be/Ej3m8ukDOlk">commerceBattle</a>  
+<a href="http://youtu.be/rb-9IQLFi4U">commerzBeach</a>  
+<a href="http://youtu.be/zW1J8XYU3t0">commerzCanal</a>  
 <a href="http://youtu.be/vlVRgdYxFXk">rock'nBattle</a>  
+<a href="http://youtu.be/0CRF8AJH6NA">velludBossBattle</a>  
 
 <b>BgmUI</b>  
 <a href="http://youtu.be/2WWEkxSNljM">AsLogo</a> - AsiaSoft Splash  
@@ -489,6 +580,7 @@ banbantime (currently a dead file in data)
 <a href="http://youtu.be/4COWF5TAciY">ShopBgm</a> - Cash Shop theme  
 <a href="http://youtu.be/BVSPMg-GWDc"><span style="color:red">Title</span></a> - Login theme  
 <a href="http://youtu.be/1GA7nJdEvN8"><span style="color:red">Title_8th</span></a> - 8th anniversary login theme  
+<a href="http://1drv.ms/1tpV59w">Title_Frozen</a>  
 <a href="http://youtu.be/VLZsjH3fr70"><span style="color:red">Title_Japan</span></a> - Mikuni Shimokawa: Memories of MapleStory  
 <a href="http://youtu.be/3L9fhgu2kDI"><span style="color:red">Title_Japan2</span></a> - Euphonius - Divinity  
 <a href="http://youtu.be/toyGN6s7-S8"><span style="color:red">Title_Japan3</span></a> - Jimang – Sakura Pop  
@@ -501,6 +593,15 @@ banbantime (currently a dead file in data)
 <b>Bgm_pachinko</b>  
 <a href="http://youtu.be/NJo_TrTWIa4">Pachinko_Interior_Ambience</a> - Pachinko background noise  
 
+<b>BgmEventEU</b>  
+<a href="http://youtu.be/Dtvumci8eA0"><span style="color:green">Anniv1</span></a> - EuropeMS anniversary; a copy of CakeMap  
+
 <b>Sound Effects</b>  
 <a href="http://youtu.be/-ZZXlwRvUyA">Congratulation</a> - Peach Blossom Island wedding effect  
 <a href="http://youtu.be/vOCecaxisgE">Heartybear</a> - Hearty Party Bear effect  
+
+<b>StudioEIM Portfolio</b>  
+<a href="http://youtu.be/x4FQNTMBjno">Kerning Square (Alternate Version)</a>  
+<a href="http://youtu.be/13nSE_8rXP4">Summer Boating (Alternate Version)</a>  
+<a href="http://youtu.be/e28KuaWaHYo">Poison Forest (Alternate Version)</a  
+
