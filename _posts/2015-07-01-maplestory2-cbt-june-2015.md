@@ -7,7 +7,7 @@ comments: true
 share: true
 ---
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PLARr36qkoiWbjHJA38pPs8h_JPuTS6bBl&index=55" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PLARr36qkoiWbjHJA38pPs8h_JPuTS6bBl&index=24" frameborder="0" allowfullscreen></iframe>
 
 Some new tracks were added for the closed beta last month. Remember to check back frequently for updates as the official
 release of MapleStory 2 is just around the corner!
