@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KMS 1.2.225 - Black Heaven Final Chapter
-description: "Black Heaven Final Chapter (KMS release)"
+description: "Black Heaven Final Chapter"
 tags: [KMS]
 comments: true
 share: true

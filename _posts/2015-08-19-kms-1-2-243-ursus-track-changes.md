@@ -1,7 +1,7 @@
 ---
 layout: post
-title: KMS 1.2.243 - Urus track changes
-description: "Urus track changes"
+title: KMS 1.2.243 - Ursus track changes
+description: "Ursus track changes"
 tags: [KMS]
 comments: true
 share: true
@@ -9,7 +9,7 @@ share: true
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/krltH4ZKh04" frameborder="0" allowfullscreen></iframe>
 
-Some Urus tracks were changed upon the official release into KMS.  
+Some Ursus tracks were changed upon the official release into KMS.  
 
 <b>KMS 1.2.243</b> - 8/19  
 Bgm44/<a href="http://youtu.be/krltH4ZKh04">TheKingOfDestruction</a>  

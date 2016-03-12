@@ -1,7 +1,7 @@
 ---
 layout: post
-title: KMST 1.2.001 - Black Heaven Final Chapter + Suu Boss Battle
-description: "Black Heaven Final Chapter + Suu Boss Battle"
+title: KMST 1.2.001 - Black Heaven Lotus Boss Battle
+description: "Black Heaven - Lotus Boss Battle"
 tags: [KMS]
 comments: true
 share: true
