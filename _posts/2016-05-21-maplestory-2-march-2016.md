@@ -7,7 +7,7 @@ comments: true
 share: true
 ---
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PLARr36qkoiWbhGZEZDvgv6F5vfRMR79_q&index=80" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PLARr36qkoiWb7RmQMBycRsnjDJre367fZ" frameborder="0" allowfullscreen></iframe>
 
 New music from MapleStory 2, March 2016.
 
