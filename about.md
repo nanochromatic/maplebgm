@@ -18,6 +18,6 @@ This website will be used to deliver information regarding new MapleStory BGM re
 The entire collection of BGMs will also be available shortly so you can seek out your favorite
 tracks.
 
-Follow [@maplebgm](https://twitter.com/maplebgm) on Twitter to receive updates and visit the [YouTube channel](https://www.youtube.com/user/SlipySlidy) to relax to some music. Downloads can be found at [OneDrive](http://sdrv.ms/1dy5IBK).
+Follow [@maplebgm](https://twitter.com/maplebgm) on Twitter to receive updates and visit the [YouTube channel](https://www.youtube.com/user/SlipySlidy) to relax to some music.
 
-<div class="social" markdown="0"><a href="https://twitter.com/maplebgm" class="btn btn-info">Twitter</a> <a href="https://www.youtube.com/user/SlipySlidy" class="btn btn-danger">YouTube</a> <a href="http://sdrv.ms/1dy5IBK" class="btn btn-info">OneDrive</a></div>
+<div class="social" markdown="0"><a href="https://twitter.com/maplebgm" class="btn btn-info">Twitter</a> <a href="https://www.youtube.com/user/SlipySlidy" class="btn btn-danger">YouTube</a></div>
