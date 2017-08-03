@@ -15,9 +15,9 @@ To catch up with all the missing content, I'll begin posting the newer songs tha
 
 Here's the music from the Maple Music Festival, which made its debut last year.
 
-<b>CMS 1.36</b> - 8/23
-PL_MMF/<a href="https://youtu.be/I2VC4bGdJq4">MMF_ariant</a>
-PL_MMF/<a href="https://youtu.be/hHVlL6GKYx0">MMF_badGuys</a>
-PL_MMF/<a href="https://youtu.be/5C4xjDFRQHE">MMF_kinesis</a>
-PL_MMF/<a href="https://youtu.be/3NBg9oujtqA">MMF_mapleIsland</a>
+<b>CMS 1.36</b> - 8/23  
+PL_MMF/<a href="https://youtu.be/I2VC4bGdJq4">MMF_ariant</a>  
+PL_MMF/<a href="https://youtu.be/hHVlL6GKYx0">MMF_badGuys</a>  
+PL_MMF/<a href="https://youtu.be/5C4xjDFRQHE">MMF_kinesis</a>  
+PL_MMF/<a href="https://youtu.be/3NBg9oujtqA">MMF_mapleIsland</a>  
 PL_MMF/<a href="https://youtu.be/w_5ZtzdMFeM">MMF_timeTemple</a>
