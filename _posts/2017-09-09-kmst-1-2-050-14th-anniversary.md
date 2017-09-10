@@ -1,7 +1,7 @@
 ---
 layout: post
-title: KMST 1.2.050 - 14th Anniversary
-description: "14th Anniversary"
+title: KMST 1.2.050 - 14th Anniversary, Season 2
+description: "14th Anniversary, Season 2"
 tags: [KMS]
 comments: true
 share: true
